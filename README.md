@@ -28,7 +28,6 @@ Desenvolvedor focado na concepção e implementação de soluções de software 
 | [**PPCOT**](https://github.com/lccav98/PPCOT) | **Automação do Exame de Situação** tático segundo o manual EB70-MC-10.211 | Next.js 14, TypeScript, Tailwind | [Repositório](https://github.com/lccav98/PPCOT) |
 | [**Fogos**](https://github.com/lccav98/Fogos) | **Planejamento de Fogos de Brigada** (MC-5.60 / DAMEPLAN) com exportação KML para C2 | React, Vite, Leaflet, GeoJSON | [🌐 Ver Demo](https://lccav98.github.io/Fogos) |
 | [**Abordagem_Abrigos**](https://github.com/lccav98/Abordagem_Abrigos) | **Controle e Acolhimento Humanitário** na Operação Acolhida (sem exposição de PII) | Next.js, Drizzle ORM, SQLite/D1 | [Repositório](https://github.com/lccav98/Abordagem_Abrigos) |
-| [**QCP**](https://github.com/lccav98/QCP) | **Gestão de Efetivo Militar**, auditoria e diagnóstico de claros e excessos | React, Python, Data Analytics | [🌐 Ver Demo](https://lccav98.github.io/QCP) |
 | [**SGR (GR)**](https://github.com/lccav98/GR) | **Sistema de Gratificação de Representação**: conformidade financeira e legal | Single Page App Zero-Dependency | [🌐 Ver Demo](https://lccav98.github.io/GR) |
 | [**iNFRA**](https://github.com/lccav98/iNFRA) | **Gestão de Infraestrutura e Logística Integrada** com backend dedicado | React, TypeScript, Node.js, Express | [Repositório](https://github.com/lccav98/iNFRA) |
 
